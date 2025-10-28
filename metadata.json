@@ -1,0 +1,5 @@
+{
+  "name": "BillGen: Smart Invoicing",
+  "description": "A simple, intuitive web-tool for freelancers and small businesses to quickly generate professional invoices, track payments, and manage billing. Create, customize, and download PDF invoices with ease.",
+  "requestFramePermissions": []
+}
